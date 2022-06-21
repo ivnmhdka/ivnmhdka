@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ivan Mahadika</h1>
+<h1 align="center">Hi 👋, I'm Ivan Mahadika</h1>
 
 - 📫 How to reach me **ivanmahadika05@gmail.com**
 - 😄 Pronouns: He/Him
