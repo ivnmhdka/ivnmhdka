@@ -7,5 +7,3 @@
 <p align="center">
 <a href="https://instagram.com/ivan.mahadika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan.mahadika" height="30" width="40" /></a>
 </p>
-
-
