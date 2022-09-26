@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I'm Ivan</h2>
+<h2 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I'm Ivan</h2>
 
 <h3 align="center">Social Media</h3>
 <p align="center">
