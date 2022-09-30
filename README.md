@@ -8,3 +8,5 @@ You can reach me on:<br><br>
  <a href="https://twitter.com/ivnmhdka"><img src="https://img.shields.io/badge/Twitter-0089D6?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=ivnmhdka&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmhdka&layout=compact&theme=tokyonight)
