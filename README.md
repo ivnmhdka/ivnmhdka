@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I'm Ivan</h2>
+<h2 align="left">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I'm Ivan</h2>
 
 <p align="left">
 You can reach me on:<br><br>
