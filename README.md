@@ -7,4 +7,4 @@ You can reach me on:<br><br>
  <a href="https://www.instagram.com/ivan.mahadika/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
  
 ### Github Statistic
-![github stats](https://github-readme-stats.vercel.app/api?username=ivnmhdka&show_icons=true&count_private=true&theme=tokyonight)
+![github stats](https://github-readme-stats.vercel.app/api?username=ivnmhdka&show_icons=true&hide_border=true&count_private=true&border_radius=20&theme=tokyonight)
